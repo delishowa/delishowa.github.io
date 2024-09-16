@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://delishowa.github.io/sitemap.html.gz
+Sitemap: https://delishowa.github.io/app/sitemap.html.gz
+Sitemap: https://delishowa.github.io/assets/sitemap.html.gz
+Sitemap: https://delishowa.github.io/css/sitemap.html.gz
+Sitemap: https://delishowa.github.io/includes/sitemap.html.gz
+Sitemap: https://delishowa.github.io/item/sitemap.html.gz
+Sitemap: https://delishowa.github.io/src/sitemap.html.gz
